@@ -1,0 +1,2 @@
+SEED=word1 word2
+TONAPI_TOKENP=
